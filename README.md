@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-Tenho 20 anos, sou de Fortaleza/CE e estou no 4º semestre de Ciência da Computação na UNIFOR.
+Tenho 19 anos, sou de Fortaleza/CE e estou no 4º semestre de Ciência da Computação na UNIFOR.
 
 Trabalho principalmente com **automação de processos** e **desenvolvimento web full-stack** — construo integrações que resolvem gargalos reais (agendamento por WhatsApp, sincronização de dados, dashboards de gestão) e aplicações web do backend ao deploy.
 
