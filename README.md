@@ -59,13 +59,6 @@ Atualmente busco uma **oportunidade de estágio** onde eu possa aprender com um 
 
 ---
 
-### 📊 Estatísticas
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=levicostaq&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=levicostaq&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
----
-
 ### 🌱 Atualmente estudando
 
 - Estruturas de dados e algoritmos (Python/Java)
